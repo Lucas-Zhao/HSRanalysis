@@ -13,3 +13,6 @@ To use the code, follow the instructions:
           - View Sorted Data: Displays another menu that asks the user on what factor they want to use to sort the data and it will then sort the data from highest to lowest based off what is selected.
           - Print CSV: The code creates a .csv file called New_HSR.csv that has the updated data if the user added or removed any characters. This will it can be renamed to be "HSR.csv" and run again in the code want to test with a higher sample size
 - Once the user is done, press 6 on the menu for the last segment to exit the code and close the database.
+
+
+Project Demo Video: https://drive.google.com/file/d/1zS02ckaCol7w50iUEhsmDxPFO23R72mo/view?usp=sharing
